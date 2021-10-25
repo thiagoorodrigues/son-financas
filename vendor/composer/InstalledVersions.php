@@ -25,24 +25,33 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => '1.0.0+no-version-set',
-    'version' => '1.0.0.0',
+    'pretty_version' => 'dev-master',
+    'version' => 'dev-master',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '8171cd12fc72bdf2fb60ad3476ca48a02f9ca5b0',
     'name' => 'macbook/son-financas',
   ),
   'versions' => 
   array (
-    'macbook/son-financas' => 
+    'fzaninotto/faker' => 
     array (
-      'pretty_version' => '1.0.0+no-version-set',
-      'version' => '1.0.0.0',
+      'pretty_version' => 'v1.6.0',
+      'version' => '1.6.0.0',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '44f9a286a04b80c76a4e5fb7aad8bb539b920123',
+    ),
+    'macbook/son-financas' => 
+    array (
+      'pretty_version' => 'dev-master',
+      'version' => 'dev-master',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8171cd12fc72bdf2fb60ad3476ca48a02f9ca5b0',
     ),
     'psr/log' => 
     array (
