@@ -1,0 +1,17 @@
+{
+    "name": "macbook/son-financas",
+    "authors": [
+        {
+            "name": "Thiago Rodrigues",
+            "email": "thiago.dinnes@gmail.com"
+        }
+    ],
+    "require": {
+        "robmorgan/phinx": "0.7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "SONFin\\": "src/"
+        }
+    }
+}
