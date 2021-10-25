@@ -6,11 +6,29 @@
     'aliases' => 
     array (
     ),
-    'reference' => '8171cd12fc72bdf2fb60ad3476ca48a02f9ca5b0',
+    'reference' => '07045e3335fc5d869724f683c711032fa2eab49a',
     'name' => 'macbook/son-financas',
   ),
   'versions' => 
   array (
+    'aura/router' => 
+    array (
+      'pretty_version' => '3.1.0',
+      'version' => '3.1.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '52507bc813c92511dbcacc7463f163ef5149ad38',
+    ),
+    'container-interop/container-interop' => 
+    array (
+      'pretty_version' => '1.2.0',
+      'version' => '1.2.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '79cbf1341c22ec75643d841642dd5d6acd83bdb8',
+    ),
     'fzaninotto/faker' => 
     array (
       'pretty_version' => 'v1.6.0',
@@ -27,7 +45,34 @@
       'aliases' => 
       array (
       ),
-      'reference' => '8171cd12fc72bdf2fb60ad3476ca48a02f9ca5b0',
+      'reference' => '07045e3335fc5d869724f683c711032fa2eab49a',
+    ),
+    'pimple/pimple' => 
+    array (
+      'pretty_version' => 'v3.4.0',
+      'version' => '3.4.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '86406047271859ffc13424a048541f4531f53601',
+    ),
+    'psr/container' => 
+    array (
+      'pretty_version' => '1.1.1',
+      'version' => '1.1.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8622567409010282b7aeebe4bb841fe98b58dcaf',
+    ),
+    'psr/http-message' => 
+    array (
+      'pretty_version' => '1.0.1',
+      'version' => '1.0.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'f6561bf28d520154e4b0ec72be95418abe6d9363',
     ),
     'psr/log' => 
     array (
@@ -125,6 +170,15 @@
       array (
       ),
       'reference' => '88289caa3c166321883f67fe5130188ebbb47094',
+    ),
+    'xtreamwayz/pimple-container-interop' => 
+    array (
+      'pretty_version' => '1.0.0',
+      'version' => '1.0.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'de8322e4b61a1f25d6fa21ce29f0368c52d7cec6',
     ),
   ),
 );
